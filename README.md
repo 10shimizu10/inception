@@ -7,6 +7,7 @@ mkdir -p /home/aoshimiz/Desktop/data/WP
 sudo sh -c 'echo "127.0.0.1 aoshimiz.42.fr" >> /etc/hosts'
 
 mkdir -p ~/.ssh
+
 mv ~/inception/id_ed25519_vogsphere.txt ~/.ssh/
 id_ed25519_vogsphere
 
