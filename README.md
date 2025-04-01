@@ -22,3 +22,5 @@ chmod 644 ~/.ssh/id_ed25519_vogsphere.pub
 eval "$(ssh-agent -s)"
 
 ssh-add ~/.ssh/id_ed25519_vogsphere
+
+https://web.archive.org/web/20240806235651/https://42evals.com/common-core/inception
