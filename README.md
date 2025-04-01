@@ -25,8 +25,7 @@ ssh-add ~/.ssh/id_ed25519_vogsphere
 
 https://web.archive.org/web/20240806235651/https://42evals.com/common-core/inception
 
-
-'''
+```sh
 mkdir -p ./srcs && cat > ./srcs/.env <<'EOF'
 # WordPress DB
 DB_NAME=Wordpress
@@ -50,5 +49,3 @@ CERTS_PATH=/etc/nginx/ssl/NG.crt
 EOF
 
 echo ".env ファイルを ./srcs/.env に生成しました ✅"
-
-'''
